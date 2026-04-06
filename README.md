@@ -33,7 +33,7 @@ anómalos que puedan representar riesgo de fraude.
 
 ## Contexto
 Proyecto final del curso Data Analytics — Coderhouse (2025–2026)
-Datos basados en entorno laboral con estructura comercial 
+Datos simulados basados en entorno laboral con estructura comercial 
 auténtica.
 
 ## Vista del dashboard
