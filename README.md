@@ -44,9 +44,10 @@ auténtica.
 [Proyecto Stihl - Análisis de Desempeño Comercial y Detección de Riesgo de Fraude.pdf](https://github.com/user-attachments/files/26491986/Proyecto.Stihl.-.Analisis.de.Desempeno.Comercial.y.Deteccion.de.Riesgo.de.Fraude.pdf)
 
 #Power BI
-<img width="1366" height="549" alt="image" src="https://github.com/user-attachments/assets/22062025-6f3f-4cd2-9d91-65afcdbff6f2" />
-
 <img width="954" height="537" alt="image" src="https://github.com/user-attachments/assets/460e9438-f299-467a-bd31-64161b928d29" />
 <img width="1362" height="542" alt="image" src="https://github.com/user-attachments/assets/d41a20a9-4668-4f9f-af99-831791db7a57" />
 <img width="1363" height="551" alt="image" src="https://github.com/user-attachments/assets/ef85b9c6-d377-4556-9e17-c7106ba99d39" />
 <img width="1366" height="549" alt="image" src="https://github.com/user-attachments/assets/91f717ab-10ec-4cc9-8462-e0d5615a146e" />
+
+#Proyecto completo en Drive
+https://drive.google.com/drive/folders/1FzPBQ6c2gtHufjSWU54bJs2LkV17E1pl?usp=drive_link
