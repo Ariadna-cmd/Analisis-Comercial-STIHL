@@ -44,6 +44,12 @@ auténtica.
 [Proyecto Stihl - Análisis de Desempeño Comercial y Detección de Riesgo de Fraude.pdf](https://github.com/user-attachments/files/26491986/Proyecto.Stihl.-.Analisis.de.Desempeno.Comercial.y.Deteccion.de.Riesgo.de.Fraude.pdf)
 
 #Power BI
+## Resultados principales
+- 10 transacciones identificadas como fraude potencial
+- Risk Score promedio: 2.78
+- 30 clientes segmentados por tipo y comportamiento
+- Dashboard con 4 vistas: Portada, Desempeño Comercial, Riesgo y Fraude, Perfil de clientes
+  
 <img width="954" height="537" alt="image" src="https://github.com/user-attachments/assets/460e9438-f299-467a-bd31-64161b928d29" />
 <img width="1362" height="542" alt="image" src="https://github.com/user-attachments/assets/d41a20a9-4668-4f9f-af99-831791db7a57" />
 <img width="1363" height="551" alt="image" src="https://github.com/user-attachments/assets/ef85b9c6-d377-4556-9e17-c7106ba99d39" />
