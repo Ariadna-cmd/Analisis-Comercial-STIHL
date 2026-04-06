@@ -35,3 +35,13 @@ anómalos que puedan representar riesgo de fraude.
 Proyecto final del curso Data Analytics — Coderhouse (2025–2026)
 Datos basados en entorno laboral con estructura comercial 
 auténtica.
+
+## Vista del dashboard
+#Excel
+[stihl_dataset_riesgo_fraude.xlsx](https://github.com/user-attachments/files/26491984/stihl_dataset_riesgo_fraude.xlsx)
+
+#PDF
+[Proyecto Stihl - Análisis de Desempeño Comercial y Detección de Riesgo de Fraude.pdf](https://github.com/user-attachments/files/26491986/Proyecto.Stihl.-.Analisis.de.Desempeno.Comercial.y.Deteccion.de.Riesgo.de.Fraude.pdf)
+
+#Power BI
+<img width="954" height="537" alt="image" src="https://github.com/user-attachments/assets/460e9438-f299-467a-bd31-64161b928d29" />
