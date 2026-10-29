@@ -56,4 +56,4 @@ auténtica.
 <img width="1366" height="549" alt="image" src="https://github.com/user-attachments/assets/91f717ab-10ec-4cc9-8462-e0d5615a146e" />
 
 #Proyecto completo en Drive
-https://drive.google.com/drive/folders/1FzPBQ6c2gtHufjSWU54bJs2LkV17E1pl?usp=drive_link
+https://drive.google.com/drive/folders/12zuaOE2EsAEu2EheYjkmYm9VvK86Fn7R?usp=sharing
